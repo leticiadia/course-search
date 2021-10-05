@@ -1,0 +1,14 @@
+{
+    "name": "leticiadia/courses-search",
+    "description": "Project developed to search for courses",
+    "type": "library",
+    "authors": [
+        {
+            "name": "Leticia",
+            "email": "contatoleticiadia@gmail.com"
+        }
+    ],
+    "require": {
+        "guzzlehttp/guzzle": "^7.3"
+    }
+}
